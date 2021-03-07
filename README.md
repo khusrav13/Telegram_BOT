@@ -1,9 +1,9 @@
 # TELEGRAM BOT
 
 
-## Demo version of the first Telegram bot for weather.
+## Demo version of my first Telegram bot for weather.
 
-####Libraries:
+###ibraries:
 * telebot
 * requests
 * beautifulsoup4 4.9.3
