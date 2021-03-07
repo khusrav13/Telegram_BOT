@@ -3,7 +3,7 @@
 
 ## Demo version of my first Telegram bot for weather.
 
-###ibraries:
+### Libraries:
 * telebot
 * requests
 * beautifulsoup4 4.9.3
